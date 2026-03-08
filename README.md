@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Belal 👋
 
-<!--
-**BelAlMo2/BelAlMo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Student | 🛡️ Aspiring SOC Analyst | 💻 Security-Minded Programmer
 
-Here are some ideas to get you started:
+I am a student at the Faculty of Computers and Information with a strong passion for Cybersecurity and a solid foundation in programming. I love analyzing systems, understanding how software works under the hood, and solving complex security challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 What I'm currently working on:
+* 🔍 Deepening my knowledge in **Cybersecurity**, specifically focusing on the **SOC Analyst** track and **Malware Analysis**.
+* 🛡️ Hands-on practice and lab simulations on **Hack The Box**.
+* 💻 Writing scripts and understanding software architecture using **C++, Dart, and Python**.
+* 🐧 Mastering **Kali Linux** and setting up secure virtual environments.
+
+### 🛠️ Tech Stack & Tools:
+* **Programming & Scripting:** C++, Dart, Python
+* **Security & OS:** Kali Linux, Windows Security, SIEM Concepts, Log Analysis
+* **Concepts:** MITRE ATT&CK, NIST Framework, Network Protocols (TCP/IP, DNS), OOP
+
+### 📫 How to reach me:
+* **LinkedIn:** [Belal Mohamed](https://www.linkedin.com/in/belal-mohamed-soc)
+
+---
+💡 *"Combining programming logic with a security mindset."*
