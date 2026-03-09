@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Aspiring SOC Analyst | Security-Minded Programmer
 
-I am a student at the Faculty of Computers and Information with a strong passion for Cybersecurity and a solid foundation in programming. I love analyzing systems, understanding how software works under the hood, and solving complex security challenges.
+I am a student at the Faculty of Computers and Artificial Intelligence with a strong passion for Cybersecurity and a solid foundation in programming. I love analyzing systems, understanding how software works under the hood, and solving complex security challenges.
 
 ### What I'm currently working on:
 * Deepening my knowledge in **Cybersecurity**, specifically focusing on the **SOC Analyst** track and **Malware Analysis**.
